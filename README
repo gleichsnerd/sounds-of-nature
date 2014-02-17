@@ -1,0 +1,29 @@
+sounds-of-nature
+
+Adam Gleichsner
+"gleichsnerd"
+amg188@case.edu
+
+**DESCRIPTION**
+Created back in high school for a PJAS project (read Pennsylvania statewide 
+science fair), this C++ program takes highly contrasted waveform-like images, 
+converts them to a single line using OpenCV image processing suite, and then 
+finds amplitudes of the line and finds corresponding frequency values that 
+could be played back as soundwaves.
+
+**INSTALLATION**
+If you've made it this far, I commend you. To run this program, you'll need to 
+install OpenCV and link it to your IDE as a location to look for header files.
+The original package used was version 2.3.0, but any later 2.x version should
+be fine. Downloads and instructions can be found at www.opencv.org.
+
+Since this program was never meant to be ran as a standalone item, you'll have to run it through the IDE with the accompanying source file.
+
+**RUNNING THE PROGRAM**
+Operation is simple; enter the filepath for your desired converted image.
+Hopefully it works. If not, you're free to build a time machine and contact
+12th grade me. The chances of me updating this program are incredibly slim
+at this point in time. However, I hope you enjoy whatever does come out of
+the conversion.
+
+No, this does not play the wavelengths. Yes, I wish it did too.
